@@ -1,0 +1,17 @@
+{
+    "name": "lerni/silverstripe3-italian-lang-fix",
+    "type": "silverstripe-module",
+    "require": {
+        "netresearch/composer-patches-plugin": "^1.2.1"
+    },
+    "extra": {
+        "patches": {
+            "silverstripe/framework": [
+                {
+                    "title": "[PATCH] applying patch to lang/it.yml for SilverStripe 3.* to fix parsing",
+                    "url": "https://gist.github.com/lerni/bce0f9aba152d42c76816029c957aeb6"
+                }
+            ]    
+        }
+    }
+}
