@@ -9,7 +9,7 @@
             "silverstripe/framework": [
                 {
                     "title": "[PATCH] applying patch to lang/it.yml for SilverStripe 3.* to fix parsing",
-                    "url": "https://gist.githubusercontent.com/lerni/5889be779c2aed63e6039b49a12463ae/raw/9dfd5a02058fecc4cc68acf4f027955c8f2d0cad/ss3-it-yml.patch"
+                    "url": "https://gist.githubusercontent.com/lerni/5889be779c2aed63e6039b49a12463ae/raw/2bac50d61ccb984150c83311659ecba4dfa7beae/ss3-it-yml.patch"
                 }
             ]    
         }
